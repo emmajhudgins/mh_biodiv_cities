@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+analysis/Data/*
+analysis/Output/eBirdDiversityDistLocations_wModeled.csv 
+analysis/Output/eBirdDiversityDistLocations.csv
+analysis/Data.zip
+.DS_Store
