@@ -52,3 +52,4 @@ analysis/Output/eBirdDiversityDistLocations_wModeled.csv
 analysis/Output/eBirdDiversityDistLocations.csv
 analysis/Data.zip
 .DS_Store
+analysis/Output/output_bigfiles.zip
